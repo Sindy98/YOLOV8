@@ -1,0 +1,16 @@
+# Core dependencies
+ultralytics
+numpy
+opencv-python
+onnxruntime
+
+# UI dependencies
+gradio
+
+# Data processing
+pyyaml
+
+# Development (optional)
+pytest
+black
+flake8
